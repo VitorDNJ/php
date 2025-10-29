@@ -6,7 +6,9 @@
     <title>teste</title>
 </head>
 <body>
-    <label form="nome" name="nome">Nome</label>
-    <input type="text" name="nome" id="idnome">
+  <?php
+  echo"hello word"
+  ?>
+  
 </body>
 </html>
