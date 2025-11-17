@@ -9,9 +9,9 @@ return"O número $n é IMPAR";
 }
 }
 
- $numero = 15;
- $resultado = verificarPArouImpa($numero);
+$numero = 15;
+$resultado = verificarPArouImpa($numero);
 
- print $resultado;
+print $resultado;
 
 ?>

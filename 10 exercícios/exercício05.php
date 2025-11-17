@@ -17,7 +17,6 @@
         $dia_semana = date ("l" , $timestamp);
         print "O dia da semana para a data $data é $dia_semana";
         }
-
     ?>
 </body>
 </html>
